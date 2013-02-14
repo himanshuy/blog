@@ -1,7 +1,7 @@
 // HTML Truncator for jQuery
 // by Henrik Nyh <http://henrik.nyh.se> 2008-02-28.
 // Free to modify and redistribute with credit.
-
+// test git
 (function($) {
 
   var trailing_whitespace = true;
